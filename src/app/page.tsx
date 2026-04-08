@@ -2,7 +2,7 @@
 
 import { useState, useEffect, useRef } from "react";
 
-const CALENDLY_URL = "#book-call"; // Replace with your Calendly link
+const CALENDLY_URL = "https://calendly.com/danielbarhemula/30min";
 
 /* ─── Intersection Observer Hook ─── */
 function useInView(threshold = 0.15) {
